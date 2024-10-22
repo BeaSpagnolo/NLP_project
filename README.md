@@ -1,6 +1,7 @@
 # Evaluating Model Generalizability for Mental Health detection on Reddit Datasets
 
 This study examines whether different data collection methods on the same platform (Reddit) affect model performance, building on findings that models trained on one platform often perform poorly on another.
+To see the files download and extract the NLP_project.zip folder, below you will find a precise description of each folder contents.
 
 
 ## datasets folder
